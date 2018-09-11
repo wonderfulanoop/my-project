@@ -1,0 +1,80 @@
+body{
+	background-color: lightgrey;
+}
+.container{
+	display: flex;
+	justify-content: center;
+}
+h1{
+	margin-top: 40px;
+	text-align: center;
+	color:black;
+	width: 900px;
+	height: 60px;
+	background-color: yellowgreen;
+	
+}
+.an{
+	width: 250px;
+	background-color: white;
+	margin-top: 40px;
+	height: 60px;
+	
+}
+.world{
+	border:5px solid green;
+	padding: 20px;
+	font-size: 20px;
+	color:brown;
+
+}
+
+.link a{
+	text-decoration: none;
+	}
+.link{
+	width: 450px;
+	background-color: pink;
+	height: 60px;
+	margin-top: 40px;
+}
+hr{
+	width: 500px;
+
+}
+.box{
+
+	padding:100px;
+}
+.let{
+	font-size: 20px;
+	color:brown;
+	padding: 20px;
+	border:5px solid green;
+}
+.equality{
+	padding: 100px;
+
+}
+nav a{
+	text-decoration: none;
+}
+.w{
+	padding: 20px;
+	border:4px solid yellow;
+	width: 900px;
+	height:500px;]
+	float: left;
+}
+.s{
+	padding: 20px;
+	border:4px solid yellow;
+	width: 680px;
+	float:right;
+	margin-top: -1px;
+	height: 500px;
+}
+.ol{
+	display: flex;
+	justify-content: center;
+	}

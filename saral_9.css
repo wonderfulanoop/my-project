@@ -1,0 +1,89 @@
+body{
+	margin:0;
+	background-color: lightgrey;
+	height: 1800px;
+}
+.container{
+	width: 100%;
+	height: 80px;
+	background-color:greenyellow;
+	display: flex;
+	justify-content: space-between;
+	position: fixed;
+
+}
+.logo{
+	width: 100px;
+	margin:33px;
+	background-color: white;
+}
+.index{
+	width: 250px;
+	height: 80px;
+	background-color: white;
+
+}
+.link a{
+	text-decoration: none;
+
+}
+.link{
+	display: flex;
+	padding: 25px;
+	background-color: pink;
+}
+.equality{
+	width: 500px;
+	margin-top: 200px;
+}
+.container_1{
+	display: flex;
+	justify-content: center;
+	padding: 150px;
+}
+.item_1{
+	padding: 20px;
+	border:4px solid yellow;
+}
+.item_2{
+	padding: 20px;
+	border:4px solid yellow;
+}
+.p{
+	font-family: verdana;
+    font-size: 20px;
+    color: brown;
+    border: solid green 4px;
+    padding: 25px;
+}
+.let{
+	
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.p1{
+	display: flex;
+	font-family: verdana;
+    font-size: 20px;
+    color: brown;
+    border: solid green 4px;
+    padding: 25px;
+}
+.h2{
+	margin-left: 110px;
+}
+nav a{
+	text-decoration: none;
+}
+.sticky{
+	position: fixed;
+    bottom: 0px;
+    left:0;
+    width: 100%;
+    background-color: pink;
+    text-align: center;
+    height: 60px;
+}
+.kind{
+	padding-top: 20px;
+}

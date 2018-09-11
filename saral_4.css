@@ -1,0 +1,33 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+	text-align: center;
+	color:yellow;
+	border:dotted;
+	border-color: blue;
+	
+	padding: 40px;
+}
+.world{
+	border:5px solid green;
+	padding: 20px;
+	font-size: 20px;
+	color:brown;
+}
+.link a{
+	text-decoration: none;
+}
+hr{
+	width: 500px;
+
+}
+.box{
+	padding:100px;
+}
+.let{
+	font-size: 20px;
+	color:brown;
+	padding: 20px;
+	border:5px solid green;
+}

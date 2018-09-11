@@ -1,0 +1,17 @@
+body{
+	background-color: grey;
+}
+h1{
+	text-align: center;
+	color:yellow;
+}
+.world{
+	color:red;
+}
+.link a{
+	text-decoration: none;
+}
+hr{
+	width: 500px;
+
+}
